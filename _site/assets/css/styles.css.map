@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["../../_sass/main.scss"],"names":[],"mappings":"AAAA;EACE","sourcesContent":[".current {\n  color: red;\n}"],"file":"styles.css"}
+{"version":3,"sourceRoot":"","sources":["../../_sass/main.scss"],"names":[],"mappings":"AAAA,SACE,UAGF,MACE,kBACA,gBACA,iBACA","sourcesContent":[".current {\n  color: red;\n}\n\n.main {\n  text-align: center;\n  margin-left: 20%;\n  margin-right: 20%;\n  margin-top: 0px;\n}"],"file":"styles.css"}
